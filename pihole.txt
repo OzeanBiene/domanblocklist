@@ -112,3 +112,4 @@ Hier ist eine Liste von Domains, die oft genutzt werden, basierend auf ihren Ver
    - **expedia.com** – Reisebuchungen
 
 Benutzt du einige davon regelmäßig?
+^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
