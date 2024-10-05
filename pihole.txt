@@ -1,7 +1,7 @@
-google.com
-google.de
-bing.com
-youtube.com
-facebook.com
+#google.com
+#google.de
+#bing.com
+#youtube.com
+#facebook.com
 
 192.168.2.1 ^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
