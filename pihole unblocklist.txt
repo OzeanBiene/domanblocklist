@@ -1,0 +1,2 @@
+securepubads.g.doubleclick.net
+googleads.g.doubleclick.net
