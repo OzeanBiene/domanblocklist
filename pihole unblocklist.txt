@@ -4,3 +4,4 @@ pubads.g.doubleclick.net
 secure.adnxs.com
 s0.2mdn.net
 dis.criteo.com
+ads.smartstream.tv
